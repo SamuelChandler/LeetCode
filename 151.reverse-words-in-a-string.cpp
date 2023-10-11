@@ -36,6 +36,12 @@ public:
 
         return result;
 
+        /*
+        58/58 cases passed (3 ms)
+        Your runtime beats 86.82 % of cpp submissions
+        Your memory usage beats 45.53 % of cpp submissions (8.4 MB)
+        */
+
 
 
 
